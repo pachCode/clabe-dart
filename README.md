@@ -1,2 +1,2 @@
 # clabe-dart
-Validate a CLABE in Mexico
+Validate a CLABE in México
